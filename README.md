@@ -28,7 +28,7 @@
 
 <h4 align="center">I am a self-taught backend developer specializing in Python with additional experience in HTML, CSS, and Java. I build a variety of projects to improve my skills and explore new ideas.
   
-https://erenk.netlify.app/</h4>
+https://erenk.de</h4>
 
 ###
 
